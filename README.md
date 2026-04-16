@@ -158,7 +158,7 @@ Snowflake Marketplace Data
 ## 🤝 Author
 
 **Mansurbek Satarov**
-Data Science Enthusiast
+- Data Science Enthusiast
 
 ---
 
